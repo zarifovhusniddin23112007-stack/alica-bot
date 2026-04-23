@@ -419,13 +419,13 @@
 
 
 
-from telegram import Update
-from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
-from groq import Groq
+# from telegram import Update
+# from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
+# from groq import Groq
 
-# 🔑 TOKENLAR
-TOKEN = "8762896641:AAGOVgezzgOrKNOUPufhGTgcRqr9mhoIS7E"
-GROQ_API_KEY = "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"
+# # 🔑 TOKENLAR
+# TOKEN = "8762896641:AAGOVgezzgOrKNOUPufhGTgcRqr9mhoIS7E"
+# GROQ_API_KEY = "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"
 
 # client = Groq(api_key=GROQ_API_KEY)
 
@@ -761,7 +761,7 @@ from groq import Groq
 from duckduckgo_search import DDGS
 
 # 🔑 KEYS
-TOKEN = "8762896641:AAGOVgezzgOrKNOUPufhGTgcRqr9mhoIS7E"
+TOKEN = "8762896641:AAEZsiJpIUsWhA6-ExFkHL7UdSpQ0stZH-8"
 GROQ_API_KEY = "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"
 
 client = Groq(api_key=GROQ_API_KEY)
